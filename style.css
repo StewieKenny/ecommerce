@@ -1,12 +1,17 @@
 *{
     padding: 0;
+    margin: 0;
     font-family: 'Poppins', sans-serif;
 }
 
 /* Navigation */
 
+.nav-container{
+    background: radial-gradient(circle, white, #FFCE1B);
+}
+
 .navigation{
-    background-color: ;
+    
 }
 
 .logo{
@@ -18,7 +23,9 @@
 }
 
 .navbar{
-
+    display: flex;
+    gap: 40px;
+    list-style: none;
 }
 
 .col{
@@ -41,4 +48,5 @@
 
 .salomon-box{
     display: flex;
+    background: radial-gradient(circle,white, #81D8D0 );
 }
