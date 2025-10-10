@@ -1,3 +1,44 @@
 *{
     padding: 0;
+    font-family: 'Poppins', sans-serif;
+}
+
+/* Navigation */
+
+.navigation{
+    background-color: ;
+}
+
+.logo{
+
+}
+
+.navigation{
+
+}
+
+.navbar{
+
+}
+
+.col{
+ display: flex;
+}
+
+.row{
+
+}
+
+/* Body */
+
+.container{
+    margin: auto;
+}
+
+.slide-row{
+    display: flex;
+}
+
+.salomon-box{
+    display: flex;
 }
