@@ -175,3 +175,50 @@ ul{
     padding: 10px 0px;
     font-weight: 100;
 }
+
+/* Product Page */
+
+.sort-row{
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 30px;
+    padding: 0px 100px 0px 0px;
+}
+
+select{
+    margin-top: 5px;
+    border: solid 1px;
+}
+
+.product-col{
+    display: flex;
+}
+
+.product-card{
+    width: 200px;
+    padding: 3px;
+}
+
+.product-card img{
+    width: 200px;
+}
+
+.product-row{
+    margin-bottom: 20px;
+}
+
+.filter{
+    width: 300px;
+}
+
+.page-button {
+    margin-top: 50px;
+    text-align: center;
+}
+
+.page-button span{
+    display: inline-block;
+    width: 40px;
+}
+
+
