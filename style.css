@@ -136,3 +136,42 @@ section{
 .salomon-box div img{
     width: 500px;
 }
+
+/* footer */
+
+.footer-hr{
+    border: none;
+    height: 5px;
+    background-color: #FFCE1B;
+}
+
+footer{
+    display: flex;
+    justify-content: center;
+    padding: 50px 20px 50px 0px;
+    gap: 200px;
+}
+
+ul{
+    list-style: none;
+}
+
+/*.footer-row, .footer-row2, .footer-row3{
+    flex: 250px;
+} */
+
+.footer-row img{
+    width: 200px;
+}
+
+.footer{
+    margin-bottom: 0;
+}
+
+.footer p{
+    text-align: center;
+    color: gray;
+    font-size: smaller;
+    padding: 10px 0px;
+    font-weight: 100;
+}
