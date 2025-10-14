@@ -49,3 +49,15 @@ document.addEventListener("DOMContentLoaded", ()=>{
     })
 });
 
+
+document.addEventListener("DOMContentLoaded", ()=>{
+    var mainImage = document.querySelector(".main-image");
+    var secondaryImage = document.querySelectorAll(".secondary-image");
+
+    
+    secondaryImage.forEach(image =>{
+        image.addEventListener("click", ()=>{
+            mainImage.src = image.src
+        });
+    });
+});
