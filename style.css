@@ -353,3 +353,16 @@ th:last-child{
     text-align: right;
     padding-right: 5px;
 }
+
+/* Login Page */
+
+.login-container{
+    background: #fff;
+    width: 500px;
+    height: 400px;
+    position: relative;
+    text-align: center;
+    padding: 20px 0;
+    margin: auto;
+    box-shadow: 0 0 20px 0px rgba(0, 0, 0, 0.1)
+}
